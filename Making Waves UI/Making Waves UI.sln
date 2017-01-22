@@ -1,0 +1,35 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{0AD94C6A-5602-4D74-55BF-BC943C7F6641}") = "Making Waves UI", "Assembly-CSharp-firstpass.csproj", "{BEA29B5D-B23E-1DB3-42CF-49F2602C2D00}"
+EndProject
+Project("{0AD94C6A-5602-4D74-55BF-BC943C7F6641}") = "Making Waves UI", "Assembly-CSharp.csproj", "{DA21999C-3602-F76C-7CC7-9953A0F14FB0}"
+EndProject
+Project("{0AD94C6A-5602-4D74-55BF-BC943C7F6641}") = "Making Waves UI", "Assembly-CSharp-Editor-firstpass.csproj", "{6527068E-4BE4-5C84-62C9-ED8AEF0D1BA4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEA29B5D-B23E-1DB3-42CF-49F2602C2D00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEA29B5D-B23E-1DB3-42CF-49F2602C2D00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEA29B5D-B23E-1DB3-42CF-49F2602C2D00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEA29B5D-B23E-1DB3-42CF-49F2602C2D00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA21999C-3602-F76C-7CC7-9953A0F14FB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA21999C-3602-F76C-7CC7-9953A0F14FB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA21999C-3602-F76C-7CC7-9953A0F14FB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA21999C-3602-F76C-7CC7-9953A0F14FB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6527068E-4BE4-5C84-62C9-ED8AEF0D1BA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6527068E-4BE4-5C84-62C9-ED8AEF0D1BA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6527068E-4BE4-5C84-62C9-ED8AEF0D1BA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6527068E-4BE4-5C84-62C9-ED8AEF0D1BA4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
